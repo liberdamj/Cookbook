@@ -8,4 +8,6 @@
 
 ### Languages included so far ---
 
-- **Python**
+- __**Python**__
+    - __Shapes Project__
+        - Summary: Python program/package making use of custom classes and method declaration.
