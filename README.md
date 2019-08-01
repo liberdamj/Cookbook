@@ -9,5 +9,8 @@
 ### Languages included so far ---
 
 - __**Python**__
-    - __Shapes Project__
+    - __ShapesProject__
         - Summary: Python program/package making use of custom classes and method declaration.
+- __**Java**__
+    - __CurrencyConverterProject__
+        - Summary: Java program for converting currencies. Use 'java Converter get codes' to see list of supported currencies.
