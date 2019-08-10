@@ -6,7 +6,7 @@ class Converter{
         System.out.println("    java Converter <firstISO4217Code> <secondISO4217Code>");
         System.out.println("Example:");
         System.out.println("    java Converter USD CAD");
-        System.out.println("Use \"Converter.java get codes\" to list all ISO 4217 Codes.");
+        System.out.println("Use \"java Converter get codes\" to list all ISO 4217 Codes.");
     }
 
     //Method will check if Codes given are OK
