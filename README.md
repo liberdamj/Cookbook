@@ -11,14 +11,14 @@
 - __**Python**__
     - __ShapesProject__
         - Summary: Python program/package making use of custom classes and method declaration.
+    - __NetworkScanner__
+        - Summary: Collection of scripts making use mainly of socket package.
 - __**Java**__
     - __CurrencyConverterProject__
         - Summary: Java program for converting currencies. Use 'java Converter get codes' to see list of supported currencies.
-        
+
 ### Other projects included so far ---
 
 - __**IOSAppDev**__
     - __WarCardGame__
         - Summary: WarCardGame done through Xcode with Swift and Storyboards.
-        
-
