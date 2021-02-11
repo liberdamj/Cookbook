@@ -1,0 +1,11 @@
+os library
+==========
+https://docs.python.org/3/library/os.html#files-and-directories
+
+os.getcwd() 
+    get string representation of working directory
+os.listdir(path='.')
+    returns a list containing the names of entries in the inputed directory
+os.walk('path')
+    ?? look into
+
